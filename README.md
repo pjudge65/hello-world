@@ -1,2 +1,3 @@
 # hello-world
-First repository!
+
+I like fuzzy kitty cats and silly doggies.
